@@ -1,4 +1,4 @@
-# Heart-Disease-Identiffication-Using-Various-Machine-Learning-Models
+# Heart-Disease-Identification-Using-Various-Machine-Learning-Models
 Heart Disease Indenitification Using different machine learning approach
 
 <h1>Introduction</h1>
