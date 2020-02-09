@@ -121,66 +121,66 @@ Complete attribute documentation:
 7 = bike 150 kpa min/min (Not sure if "kpa min/min" is what was written!) 
 8 = bike 125 kpa min/min 
 9 = bike 100 kpa min/min 
-10 = bike 75 kpa min/min 
-11 = bike 50 kpa min/min 
-12 = arm ergometer 
-29 thaldur: duration of exercise test in minutes 
-30 thaltime: time when ST measure depression was noted 
-31 met: mets achieved 
-32 thalach: maximum heart rate achieved 
-33 thalrest: resting heart rate 
-34 tpeakbps: peak exercise blood pressure (first of 2 parts) 
-35 tpeakbpd: peak exercise blood pressure (second of 2 parts) 
-36 dummy 
-37 trestbpd: resting blood pressure 
-38 exang: exercise induced angina (1 = yes; 0 = no) 
-39 xhypo: (1 = yes; 0 = no) 
-40 oldpeak = ST depression induced by exercise relative to rest 
-41 slope: the slope of the peak exercise ST segment 
--- Value 1: upsloping 
--- Value 2: flat 
--- Value 3: downsloping 
-42 rldv5: height at rest 
-43 rldv5e: height at peak exercise 
-44 ca: number of major vessels (0-3) colored by flourosopy 
-45 restckm: irrelevant 
-46 exerckm: irrelevant 
-47 restef: rest raidonuclid (sp?) ejection fraction 
-48 restwm: rest wall (sp?) motion abnormality 
-0 = none 
-1 = mild or moderate 
-2 = moderate or severe 
-3 = akinesis or dyskmem (sp?) 
-49 exeref: exercise radinalid (sp?) ejection fraction 
-50 exerwm: exercise wall (sp?) motion 
-51 thal: 3 = normal; 6 = fixed defect; 7 = reversable defect 
-52 thalsev: not used 
-53 thalpul: not used 
-54 earlobe: not used 
-55 cmo: month of cardiac cath (sp?) (perhaps "call") 
-56 cday: day of cardiac cath (sp?) 
-57 cyr: year of cardiac cath (sp?) 
+10 = bike 75 kpa min/min  
+11 = bike 50 kpa min/min  
+12 = arm ergometer  
+29 thaldur: duration of exercise test in minutes  
+30 thaltime: time when ST measure depression was noted  
+31 met: mets achieved  
+32 thalach: maximum heart rate achieved  
+33 thalrest: resting heart rate  
+34 tpeakbps: peak exercise blood pressure (first of 2 parts)  
+35 tpeakbpd: peak exercise blood pressure (second of 2 parts)  
+36 dummy  
+37 trestbpd: resting blood pressure  
+38 exang: exercise induced angina (1 = yes; 0 = no)  
+39 xhypo: (1 = yes; 0 = no)  
+40 oldpeak = ST depression induced by exercise relative to rest  
+41 slope: the slope of the peak exercise ST segment  
+-- Value 1: upsloping  
+-- Value 2: flat  
+-- Value 3: downsloping  
+42 rldv5: height at rest  
+43 rldv5e: height at peak exercise  
+44 ca: number of major vessels (0-3) colored by flourosopy  
+45 restckm: irrelevant  
+46 exerckm: irrelevant  
+47 restef: rest raidonuclid (sp?) ejection fraction  
+48 restwm: rest wall (sp?) motion abnormality  
+0 = none  
+1 = mild or moderate  
+2 = moderate or severe  
+3 = akinesis or dyskmem (sp?)  
+49 exeref: exercise radinalid (sp?) ejection fraction  
+50 exerwm: exercise wall (sp?) motion  
+51 thal: 3 = normal; 6 = fixed defect; 7 = reversable defect  
+52 thalsev: not used  
+53 thalpul: not used  
+54 earlobe: not used  
+55 cmo: month of cardiac cath (sp?) (perhaps "call")  
+56 cday: day of cardiac cath (sp?)  
+57 cyr: year of cardiac cath (sp?)  
 58 num: diagnosis of heart disease (angiographic disease status) 
 -- Value 0: < 50% diameter narrowing 
 -- Value 1: > 50% diameter narrowing 
 (in any major vessel: attributes 59 through 68 are vessels) 
-59 lmt 
-60 ladprox 
-61 laddist 
-62 diag 
-63 cxmain 
-64 ramus 
-65 om1 
-66 om2 
-67 rcaprox 
-68 rcadist 
-69 lvx1: not used 
-70 lvx2: not used 
-71 lvx3: not used 
-72 lvx4: not used 
-73 lvf: not used 
-74 cathef: not used 
-75 junk: not used 
+59 lmt  
+60 ladprox  
+61 laddist  
+62 diag  
+63 cxmain  
+64 ramus  
+65 om1  
+66 om2  
+67 rcaprox  
+68 rcadist  
+69 lvx1: not used  
+70 lvx2: not used  
+71 lvx3: not used  
+72 lvx4: not used  
+73 lvf: not used  
+74 cathef: not used  
+75 junk: not used  
 76 name: last name of patient (I replaced this with the dummy string "name")
 
 
